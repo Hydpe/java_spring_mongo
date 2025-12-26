@@ -1,10 +1,4 @@
-Understood.
-Below is a **clean README** using **only headings and plain text**, no tables, no emojis, no complex words.
-This will look **good in GitHub preview**.
 
-Copy and paste **exactly this** into `README.md`.
-
----
 
 # Spring Boot MongoDB CRUD Application
 
